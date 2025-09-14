@@ -35,6 +35,12 @@
 </div>
 
 <div class="skills-section">
+  ## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
 <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
@@ -65,6 +71,4 @@
   <img src="https://cdn.simpleicons.org/linux" alt="Linux" height="45" style="vertical-align: middle; margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
-<h4 align="left">Other Skills:</h4>
-<p>solidity</p>
 </div>
