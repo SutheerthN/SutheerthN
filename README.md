@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sutheerth N!</h1>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SutheerthN&show_icons=true&locale=en&theme=onedark&count_private=true&hide_border=true" alt="SutheerthN's GitHub Stats" /></p>
+<h3 align="center">I am a Cybersecurity and Blockchain enthusiast passionate about building secure systems , Dapps and DFinance, with experience in leadership and project.</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutheerthN&locale=en&theme=onedark&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SutheerthN&show_icons=true&locale=en&theme=onedark&count_private=true&hide_border=true" alt="SutheerthN's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SutheerthN&locale=en&theme=onedark&layout=compact&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=SutheerthN&theme=onedark&hide_border=true" alt="GitHub Streak Stats" /></p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SutheerthN&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/SutheerthN" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @SutheerthN" /></a>
 </p>
-
-<h3 align="center">I am a Cybersecurity and Blockchain enthusiast passionate about building secure systems , Dapps and DFinance, with experience in leadership and project.</h3>
 
 <h3 align="left">More About Me:</h3>
 
